@@ -18,6 +18,8 @@ El participante que obtenga un mejor resultado en la predicción sobre la base t
 ## Premio:
 1/2 día libre y un premio especial sorpresa.
 
+<br/>
+
 ### ¡Ánimos a todos!
 
 <br/>
