@@ -16,7 +16,7 @@ Este repositorio contiene la información necesaria para el desarrollo del prime
 El equipo que obtenga un mejor resultado en la predicción sobre la base testing del jurado. En este caso, dado que variable a proyectar es  continua (el ingreso) se usará como medida de precisión el error cuadrático medio sobre la base de prueba (*test MSE*); es decir, gana quien obtenga un menor *test MSE* durante la evaluación.
 
 ## Premio:
-1/2 día libre y un premio especial sorpresa.
+1/2 día libre y un **premio especial sorpresa**.
 
 <br/>
 
