@@ -18,9 +18,10 @@ El participante que obtenga un mejor resultado en la predicción sobre la base t
 ## Premio:
 1/2 día libre y un premio especial sorpresa.
 
-<br/><br/>
+<br/>
+
 ### ¡Ánimos a todos!
-<br/><br/>
+<br/>
 
 ***
 **PD:** Si tienes cualquier sugerencia, comentario o consulta, por favor crea un nuevo issue en el [siguiente link](https://github.com/FaridRodriguez/El-Reto-DA-1ed/issues) de manera que el resto de participantes y jurado puedan ravisarlo y resolverlo lo más pronto posible. ¡Ánimos!
