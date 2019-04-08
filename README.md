@@ -1,5 +1,5 @@
 # El Reto DA - Primera edición
-Este repositorio contiene la información para el desarrollo del primer Reto DA.
+Este repositorio contiene información para el desarrollo del primer Reto DA.
 
 ## Reglas:
 1.	Los participantes desarrollarán un modelo de predicción del ingreso per cápita de los hogares usando las variables de la Enaho 2017 tal que sea replicable con la información del Censo de Población y Vivienda del mismo año.
